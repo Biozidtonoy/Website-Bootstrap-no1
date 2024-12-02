@@ -1,2 +1,2 @@
 # landingPage-Bootstrap
-landing page using Bootstrap. 
+landing page using only Bootstrap. 
