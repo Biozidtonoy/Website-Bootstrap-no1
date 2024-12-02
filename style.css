@@ -1,0 +1,47 @@
+.carousel-item img{
+    width: 2100px;
+    height: 700px;
+}
+.slide-box{
+    padding: 16px;
+}
+body{
+    background-color: #f0d5bb;
+    
+}
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color:#703617!important;
+}
+.color{
+    color: aliceblue;
+}
+footer p,a{
+    color:white;
+}
+.btn{
+    color: white;
+}
+.form-box{
+    padding: 75px 0;
+
+}
+h5{
+    font-size: 32px;
+  font-weight: 900; 
+}
+.navbar-brand{
+    font-weight: 900;
+}
+small{
+    font-size: 15px;
+    font-weight: 900;
+}
+.branch{
+    text-align: center;
+    color: #703617;
+    width: 60%;
+    margin: auto;
+    padding-top: 32px;
+    padding-bottom: 0;
+}
